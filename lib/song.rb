@@ -27,6 +27,7 @@ class Song
       else
         song.name !== name
         return false
+      end
 
 
       end
